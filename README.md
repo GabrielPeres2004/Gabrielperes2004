@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Gabriel Luís Ferreira Peres</h1>
 <h3 align="center">Desenvolvendo o futuro, um commit de cada vez.</h3>
 
-- 🌱 Estou atualmente estudando: **Estou estudando na Rocketseat, no curso Explorer, para me tornar um programador fullstack.**
+- 🌱 Estou atualmente estudando: **Estou estudando na Toledo Prudente Centro Universitário, na graduação Análise e Desenvolvimento de Sistemas (ADS).**
 
 - 📫 Como me encontrar **gperes020@gmail.com**
 
