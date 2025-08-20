@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Gabriel Luís Ferreira Peres</h1>
 <h3 align="center">Desenvolvendo o futuro, um commit de cada vez.</h3>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por **desenvolvimento web**. Tenho experiência em **React.js** no front-end e **Node.js** com **Express** no back-end, sempre buscando criar soluções eficientes e de alto desempenho. Meu objetivo é me especializar em **React** e **Node.js**, e expandir meus conhecimentos em **TypeScript**, **Java**, e **React Native**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por **desenvolvimento web**. Tenho experiência em **React.js** no front-end e **Node.js** com **Express** no back-end, sempre buscando criar soluções eficientes e de alto desempenho. Meu objetivo é me especializar em **React**, e expandir meus conhecimentos em **TypeScript**, **Java**, e **React Native**.
 
-## 🌱 Atualmente estou aprendendo:
+## 🌱 Atualmente estou:
 - **Especializando em Front-end com React e NextJs**
 
 ## 💼 Estou em busca de uma oportunidade de estágio ou posição júnior na área de desenvolvimento.
