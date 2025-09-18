@@ -8,7 +8,7 @@ diferentes ferramentas e projetos. Busco contribuir para o desenvolvimento de ap
 escaláveis e inovadoras, evoluindo tecnicamente e colaborando de forma efetiva em equipe.
 
 ## 🌱 Atualmente estou:
-- **Especializando em Front-end com React e NextJs**
+- **Estudando Java e angular**
 
 ## 💼 Estou em busca de uma oportunidade de estágio ou posição júnior na área de desenvolvimento.
 
